@@ -1,0 +1,30 @@
+#heading
+{
+    color: rgb(85, 85, 217);
+}
+
+
+#popup{
+    color: rgb(85, 85, 217);
+}
+
+#info{
+    color: rgb(85, 85, 217);
+}
+
+#start_button{
+    background-color: rgb(169, 106, 229);
+    color: white;
+    border-radius: 8px;
+    width: 80px;
+    font-size: large;
+}
+
+#result1{
+    width: 80%;
+}
+
+body{
+    background-color: rgb(209, 243, 231);
+    font-family: 'Kanit', sans-serif;
+}
